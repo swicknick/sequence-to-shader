@@ -1,0 +1,2 @@
+numpy==1.26.4  # OpenBLAS build; the default Apple Silicon build can be silently wrong (references/troubleshooting.md)
+Pillow>=10

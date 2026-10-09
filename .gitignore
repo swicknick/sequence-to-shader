@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+.venv/
+
+# Local working notes, not part of the published skill
+CLAUDE.md
