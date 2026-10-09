@@ -75,6 +75,8 @@ The live path is a guided process rather than one command; [`references/live-rec
 - Adobe After Effects, for the live path only
 - Output runs in any browser with WebGL2
 
+Triage is tuned on real After Effects renders. On unusually grainy footage it can lean toward BORDERLINE or LIVE; if a soft gradient gets LIVE, try the compress path and check the compare sheet.
+
 ## License
 
 [MIT](LICENSE). Made by [Nicholas Rode](https://nicholasrode.com).
